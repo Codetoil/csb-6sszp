@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://codetoil.github.io/csb-6sszp/static/js/main.8de4a2b1.chunk.js",
+    "main.js.map": "https://codetoil.github.io/csb-6sszp/static/js/main.8de4a2b1.chunk.js.map",
+    "runtime-main.js": "https://codetoil.github.io/csb-6sszp/static/js/runtime-main.c8c3069d.js",
+    "runtime-main.js.map": "https://codetoil.github.io/csb-6sszp/static/js/runtime-main.c8c3069d.js.map",
+    "static/js/2.297f28f8.chunk.js": "https://codetoil.github.io/csb-6sszp/static/js/2.297f28f8.chunk.js",
+    "static/js/2.297f28f8.chunk.js.map": "https://codetoil.github.io/csb-6sszp/static/js/2.297f28f8.chunk.js.map",
+    "index.html": "https://codetoil.github.io/csb-6sszp/index.html",
+    "static/js/2.297f28f8.chunk.js.LICENSE.txt": "https://codetoil.github.io/csb-6sszp/static/js/2.297f28f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8c3069d.js",
+    "static/js/2.297f28f8.chunk.js",
+    "static/js/main.8de4a2b1.chunk.js"
+  ]
+}
